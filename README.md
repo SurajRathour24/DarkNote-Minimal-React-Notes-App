@@ -29,8 +29,6 @@ It allows users to quickly add and delete notes with a beautiful dark-themed UI.
 <img width="897" height="299" alt="image" src="https://github.com/user-attachments/assets/db13eab3-a509-46e5-aba8-08e8cc324bca" />
 
 
-> *(You can add a screenshot later)*
-
 ---
 
 ## 📂 Project Structure
